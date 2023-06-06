@@ -95,3 +95,24 @@ input {
     list-style: none;
     padding: 0 20px;
 }
+
+.info-table {
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid #c3c1c1;
+    border-collapse: collapse;
+}
+
+.info-table th {
+    text-align: left;
+    padding: 7px;
+}
+
+.info-table tr {
+    border-bottom: 1px solid #c3c1c1;
+}
+
+.info-table-text-normal {
+    font-weight: normal;
+    font-family: fantasy;
+}
